@@ -1,0 +1,8 @@
+name: RandomTP2
+version: '${project.version}'
+main: com.live.lemonjoey.Main
+api-version: 1.18
+description: A random teleport into the wilderness.
+commands:
+  wild:
+    usage: /wild
